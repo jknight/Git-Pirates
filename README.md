@@ -8,7 +8,13 @@ Krueger at [enChoice](http://enchoice.com).
 It was originally written for internal enChoice developers on Bitbucket, 
 but he kindly agreed to let me post it on github, where it's being slowly ported for github.
 
+
 ## **Setting**
+
+```
+   ,(   ,(   ,(   ,(   ,(   ,(   ,(   ,(
+`-'  `-'  `-'  `-'  `-'  `-'  `-'  `-'  `
+```
 
 > We enter our story as captain of the Medusa, a rag-tag frigate marooned off the 
 coast of Puerto Rico. Our crew is hungry and violent as we've had no food or water 
