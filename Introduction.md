@@ -6,13 +6,18 @@ Github.
 
 From now on we'll refer to a `remote repository` as any repository located away from our local machine and a `local repository` as our local machine.
 
-## Instructions:
-`Clone` (copy) this repository to your local machine:
+## Instructions
+
+The first thing we need to do is get a local copy of the source code. We'll do this by *cloning* this git repository.
+Open a command prompt, cd to a directory where you keep your code, and enter the command:
+
 `git clone https://github.com/jknight/git-pirates git-pirates`
 
-Checkout a new branch. We'll call it 'develop': 
+We'll now create a new branch called 'develop':
+
 `git checkout -b develop`
 
+This command both creates a new branch, and switches us into the branch.
 You should now be on the `develop` branch.
 
 ## **Next: [Commits](Commits.md)**  
