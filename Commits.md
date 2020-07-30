@@ -1,11 +1,5 @@
 # Commits
 
-### **Setting**
-> We enter our story as captain of the Medusa, a rag-tag frigate marooned off the 
-coast of Puerto Rico. Our crew is hungry and violent as we've had no food or water 
-for two days. A mutiny seems likely in the coming days if we can't regain control 
-of the crew. Our first order then is to construct a pirate code of laws that our 
-first-mate and quartermaster can enforce on the ship.
 
 ## Contents
 
