@@ -74,4 +74,4 @@ Doing so automatically runs test-error.sh on each checked-out commit until Git f
 
 [source](https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git)  
 
-## **[Home](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Home)**
+## **[Home](https://github.com/jknight/git-pirates)**

@@ -391,6 +391,6 @@ In the diagram below, a file starts its lifecycle untracked. The only state chan
 * ### A file in Git is always in one of three states: `committed`, `modified`, or `staged`
 * ### If a file is in one of these three states, Git considers it a `tracked` file and will pay attention to it.  
 
-## **Next: [Remotes](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Remotes)**  
+## **Next: [Remotes](Remotes.md)**  
 
-## **[Home](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Home)**
+## **[Home](https://github.com/jknight/git-pirates)**

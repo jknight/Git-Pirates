@@ -13,6 +13,6 @@
 #### Text
 ![squashing](images/squashing/s1.png)
 
-## **Next: [Pull Requests](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Pull_Requests)**  
+## **Next: [Pull Requests](Pull_Requests.md)**  
 
-## **[Home](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Home)**
+## **[Home](https://github.com/jknight/git-pirates)**

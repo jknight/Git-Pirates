@@ -110,6 +110,6 @@ _*Note: origin is the default name given to a repository when it is created--in 
 ![addRemote](images/remotes/r17.png)
 ![addRemote](images/remotes/r18.png)
 
-## **Next: [Ignores](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Ignores)**  
+## **Next: [Ignores](Ignores.md)**  
 
-## **[Home](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Home)**
+## **[Home](https://github.com/jknight/git-pirates)**
