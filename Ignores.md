@@ -133,6 +133,6 @@ Keep in mind the separation of Git entities as we went through this process:
 
 ---
 
-## **Next: [Merging](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Merging)**  
+## **Next: [Merging](Merging.md)**  
 
 ## **[Home](https://github.com/jknight/git-pirates)**
