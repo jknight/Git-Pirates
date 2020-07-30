@@ -8,28 +8,10 @@ From now on we'll refer to a `remote repository` as any repository located away 
 
 ## Instructions:
 `Clone` (copy) this repository to your local machine:
-
-**From the CLI:**  
 `git clone https://github.com/jknight/git-pirates git-pirates`
 
-**From SourceTree:**  
-![clone](images/intro/i1.png)
-
-You will start on the `master` branch--the same branch that you cloned from the 
-remote repository on git. We're going to make some changes, so let's check out 
-a fresh branch named `develop` to make it easier to work with the changes. 
-
-A good place to start your understanding of branches is an overview found 
-[here](https://www.atlassian.com/git/tutorials/using-branches). 
-It's not critical to understand branches at this point and we're going to come 
-back to them later, so you may skip these for now if you'd like to keep moving.
-
-**From the CLI:**  
+Checkout a new branch. We'll call it 'develop': 
 `git checkout -b develop`
-
-**From SourceTree:**  
-![checkout](images/intro/i2.png)  
-![checkout](images/intro/i3.png)
 
 You should now be on the `develop` branch.
 
