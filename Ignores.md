@@ -129,10 +129,7 @@ Keep in mind the separation of Git entities as we went through this process:
 
 #### **Note: all gitignores stack and are cumlative*
 
----
 
-## Adjacent has a global gitignore located at the following repository. Go there and follow the instructions to activate the global gitignore on your machine.
-## [Adjacent global gitignore repository](https://bitbucket.org/adjacentdev/adj_global-gitignore)
 
 ---
 
