@@ -366,5 +366,5 @@ If we were to have done that, the order of operations would have been:
 * ### Always fetch and merge (or pull) appropriately before pushing to public remote branches
 * ### It's a good idea to fetch and merge (or pull) public remote branches into your local repository before applying your local changes to them. When dealing with a merge conflict directly involving a public remote branch, there's always a chance you'll implement a destructive act on the remote branch while merging locally contains that potential threat.
 
-## **Next: [Squashing](https://bitbucket.org/adjacentdev/adj_git-pirates/wiki/Squashing)**  
+## **Next: [Squashing](Squashing.md)**  
 ## **[Home](https://github.com/jknight/git-pirates)**
