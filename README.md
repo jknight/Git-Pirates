@@ -1,4 +1,4 @@
-<span style="font-size:40px;">Git Pirates</span><img src="images/git-pirate.png" style="height:200px; width:200px;"/>
+<span style="font-size:40px;">Git Pirates</span><img src="images/git-pirate.png" height="200" width="200"/>
 
 ## About
 
